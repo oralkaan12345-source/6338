@@ -1,0 +1,14 @@
+**/node_modules/
+**/.venv/
+.env
+.env.*
+!.env.example
+**/storage/
+**/outputs/
+config.toml
+*.mp4
+*.wav
+*.mp3
+__pycache__/
+.video-tools/
+.npm/
