@@ -12,3 +12,7 @@ config.toml
 __pycache__/
 .video-tools/
 .npm/
+
+.kokoro-env/
+.uv-cache/
+kokoro-model/

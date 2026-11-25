@@ -42,3 +42,7 @@ python3 video/render.py --audio narration.wav --output preview.mp4 first.jpg sec
 ```
 
 Görsel sırası komuttaki sırayı izler. Dilersen `--subtitles captions.srt` ile altyazı gömebilir, `--scene-seconds 7 8 9` ile 24 saniyelik bir ses kaydına sahne süreleri atayabilirsin. Bu iki seçeneği görsel dosyalarından önce ver; `--scene-seconds` seçeneğinden sonra örnekteki gibi başka bir seçenek (`--output preview.mp4`) gelsin. Kayıt ve görselleri kendin sağlarsın; bu araç ses veya görüntü üretmez, web'e bağlanmaz ve herhangi bir platforma yükleme yapmaz. Mevcut çıktıların üzerine yazmaz.
+
+## Daha doğal İngilizce anlatım
+
+[Kokoro kurulumu](KOKORO-SETUP.md), internet kullanmadan yerel WAV üreten ve sesin süresini sahnelere göre ayarlayan test edilmiş akışı gösterir.
