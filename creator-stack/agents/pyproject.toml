@@ -1,0 +1,9 @@
+[project]
+name = "creator-roles-offline"
+version = "0.1.0"
+description = "Bounded offline research, script, and QA workflow"
+requires-python = ">=3.11,<3.14"
+dependencies = ["langgraph==1.2.24"]
+
+[tool.uv]
+package = false

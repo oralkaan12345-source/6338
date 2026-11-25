@@ -1,0 +1,23 @@
+{
+  "topic": "Ay'ın evreleri",
+  "audience": "Astronomiye yeni başlayan Türkçe Shorts izleyicileri",
+  "kind": "factual",
+  "hook": "Ay neden bazen ince bir hilal, bazen de tam bir daire?",
+  "notes": [
+    {
+      "text": "Güneş, Ay'ın bir yarısını aydınlatır. Dünya'dan bu aydınlık tarafın farklı bölümlerini görürüz.",
+      "source_url": "https://science.nasa.gov/moon/moon-phases/",
+      "visual": "Güneş, Dünya ve Ay'ı yukarıdan göster; Ay'ın aydınlık yarısını vurgula."
+    },
+    {
+      "text": "Ay yörüngesinde ilerledikçe görüş açımız değişir. Hilalden dolunaya geçiş, aydınlık bölümün bize daha çok dönük görünmesidir.",
+      "source_url": "https://science.nasa.gov/moon/moon-phases/",
+      "visual": "Kamerayı Dünya yanına getir ve farklı evrelerin siluetlerini sıralı göster."
+    },
+    {
+      "text": "Yeni aydan bir sonraki yeni aya yaklaşık 29,5 gün geçer. Sonraki açık gecede kendi evre takvimini başlatabilirsin.",
+      "source_url": "https://science.nasa.gov/moon/moon-phases/",
+      "visual": "Takvim halkasını Ay'ın evreleriyle doldur ve tarih alanını işaretle."
+    }
+  ]
+}

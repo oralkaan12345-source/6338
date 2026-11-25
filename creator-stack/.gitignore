@@ -1,0 +1,7 @@
+.env
+.env.*
+upstream/
+local-drafts/
+**/__pycache__/
+**/.venv/
+**/.uv-cache/
