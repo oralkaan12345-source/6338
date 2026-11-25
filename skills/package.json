@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "skills": "1.9.0"
+  },
+  "name": "6338-skill-discovery",
+  "private": true,
+  "scripts": {
+    "find": "skills find"
+  }
+}
