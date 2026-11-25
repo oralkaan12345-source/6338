@@ -48,3 +48,5 @@ Görsel sırası komuttaki sırayı izler. Dilersen `--subtitles captions.srt` i
 [Kokoro kurulumu](KOKORO-SETUP.md), internet kullanmadan yerel WAV üreten ve sesin süresini sahnelere göre ayarlayan test edilmiş akışı gösterir.
 
 [Türkçe Piper kurulumu](PIPER-TURKISH-SETUP.md), aynı sahne zamanlamasıyla Türkçe WAV üretir.
+
+[Türkçe Pocket TTS kurulumu](POCKET-TURKISH-SETUP.md), seçilebilir duygu ve konuşmacılarla yerel Türkçe anlatım üretir.

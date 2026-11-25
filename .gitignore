@@ -18,3 +18,5 @@ __pycache__/
 kokoro-model/
 .piper-env/
 piper-model/
+.pocket-env/
+pocket-model/
